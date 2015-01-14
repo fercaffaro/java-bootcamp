@@ -1,0 +1,2 @@
+I used Builder pattern to create the different rooms in the hospital.
+See BuilderPatternUMLDiagram.png
