@@ -1,0 +1,8 @@
+For the Shopping Cart I used this Design Patterns
+
+1) COMPOSITE: Component(Item), Leaf(Product) and Composite(Offer).
+2) STRATEGY: Strategy(Payment), ConcreteStrategy(CreditCard, Paypal, Cash), Context(Order).
+3) SINGLETON: TransctionNumber.
+4) ITERATOR: ShoppingCartItem.
+5) OBSERVER: Subject(Item:Offer and Product, Transaction), Observer(MailList)
+
